@@ -28,5 +28,6 @@ count++;
 }
 sum = first + second;
 printf("%lu\n", sum);
+
 return (0);
 }
