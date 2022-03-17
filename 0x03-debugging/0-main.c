@@ -1,12 +1,8 @@
-#include <main.h>
+#include "main.h"
 
 /**
- * main - determine if number is positive or negative
- *
- * Description: program will assign a random number to the variable n each time
- * it is executed.
- *
- * Return: Always 0 (Success)
+ * main - tests function that prints if integer is positive or negative
+ * Return: 0
  */
 
 int main(void)
