@@ -41,12 +41,12 @@ exit(0);
  */
 char *_initialize_array(char *ar, int lar)
 {
-  int i = 0;
+int i = 0;
 
-  for (i = 0; i < lar; i++)
-    ar[i] = '0';
-  ar[lar] = '\0';
-  return (ar);
+for (i = 0; i < lar; i++)
+ar[i] = '0';
+ar[lar] = '\0';
+return (ar);
 }
 /**
  * _checknum - determines length of the number
